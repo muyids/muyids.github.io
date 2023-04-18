@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[478],{752:function(t,n,s){"use strict";s.r(n);var e=s(14),l=Object(e.a)({},(function(){var t=this._self._c;return t("ContentSlotsDistributor",{attrs:{"slot-key":this.$parent.slotKey}},[t("p",[this._v("单选 4.关于使用 explain 对数据库性能进行优化分析，下列哪些说法符合《阿里巴巴 Java 开发手册》：A")])])}),[],!1,null,null,null);n.default=l.exports}}]);
